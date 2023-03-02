@@ -1,7 +1,7 @@
 # Inverted Pendulum LQR control
 
 ## Launch gazebo model using 
-roslaunch invpend_control load_invpend.launch
+`roslaunch invpend_control load_invpend.launch`
 
 ## PID
 ### PID controller parameter tuning 
