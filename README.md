@@ -14,6 +14,7 @@ launch rqt_reconfigure with the following command:
 
 ## LQR control
 'controllqr.py' in 'invpend_control/src' is to be run to execute LQR control.
+
 Goal is set to
 '[[1],[0],[0],[0]]'
 
