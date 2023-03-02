@@ -20,8 +20,9 @@ Goal is set to
 
 `[[1],[0],[0],[0]]`
 
+### Demo of LQR control on inverted pendulum. Goal : `[[1],[0],[0],[0]]`
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/5TH1VlKVSfs/0.jpg)](https://youtu.be/5TH1VlKVSfs)
+
+## Plot of cart position, velocity and Pole angular position and angular velocity
 ![alt txt](invpend_control/scripts/plot1.png "Plot 1")
 
-
-### Video Using local PID controller
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/5TH1VlKVSfs/0.jpg)](https://youtu.be/5TH1VlKVSfs)
