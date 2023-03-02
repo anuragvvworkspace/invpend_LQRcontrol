@@ -16,6 +16,8 @@ Demo includes setting pole to horizontal and publishing velocity commands.
 
 ## LQR control
 `controllqr.py` in `/invpend_control/scripts/` is to be run to execute LQR control.
+Check `/inverted_pendulum_EOM_Lagrangian.pdf` for derivation of Equations of motion using Lagrangian method and derivation of A, B, in the equation:
+`Xd = Ax + Bu` 
 
 Goal is set to
 
