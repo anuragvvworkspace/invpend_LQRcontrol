@@ -17,6 +17,6 @@ launch rqt_reconfigure with the following command:
 Goal is set to
 '[[1],[0],[0],[0]]'
 
-![alt txt](invpend_control/scripts/plots (another copy).png "Plot 1")
+![alt txt](invpend_control/scripts/plot1.png "Plot 1")
 
 
