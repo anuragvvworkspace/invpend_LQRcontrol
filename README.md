@@ -11,6 +11,7 @@ launch rqt_reconfigure with the following command
 `rosrun rqt_reconfigure rqt_reconfigure`
 
 ### Demo: Inbuilt PID controller
+Demo includes setting pole to horizontal and publishing velocity commands.
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/Mm0ADOcttg8/0.jpg)](https://youtu.be/Mm0ADOcttg8)
 
 ## LQR control
