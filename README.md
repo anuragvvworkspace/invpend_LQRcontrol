@@ -15,7 +15,7 @@ Demo includes setting pole to horizontal and publishing velocity commands.
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/Mm0ADOcttg8/0.jpg)](https://youtu.be/Mm0ADOcttg8)
 
 ## LQR control
-'controllqr.py' in 'invpend_control/src' is to be run to execute LQR control.
+`controllqr.py` in `/invpend_control/scripts/' is to be run to execute LQR control.
 
 Goal is set to
 
